@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740008093343",
+    "firebase_url": "https://projeodevmvm-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projeodevmvm",
+    "storage_bucket": "projeodevmvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740008093343:android:6f2b82423aa672980ce4aa",
+        "android_client_info": {
+          "package_name": "com.example.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740008093343-gp000mdpp7j6ue1tpm2ie9e02g8kt2ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWXm_xBmi2_VmLmYdbT6J1-CO6bGRYSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740008093343-gp000mdpp7j6ue1tpm2ie9e02g8kt2ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
